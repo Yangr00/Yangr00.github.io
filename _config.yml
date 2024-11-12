@@ -7,11 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ivana Malenica"
+title                    : "Ruan Yang"
 title_separator          : "-"
-name                     : &name "Ivana Malenica"
-description              : &description "HDSI Fellow at Harvard"
-url                      : http://127.0.0.1:4000 # https://yangr00.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ruan Yang"
+#description              : &description "HDSI Fellow at Harvard"
+description              : &description "MS student at University of North Carolina"
+#url                      : http://127.0.0.1:4000 # https://yangr00.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yangr00.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imalenica/imalenica.github.io"
 teaser                   : #"imalenica.jpg"
@@ -80,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ivana Malenica"
+  name             : "Ruan Yang"
 #  avatar           : "ace6abae-619a-4223-a50f-41a57b4c9632.jpg"
   avatar           : "photo.jpg"
-  bio              : "HDSI Fellow at Harvard"
-  location         : "Cambridge, MA"
+  bio              : "MS student at University of North Carolina"
+  location         : "Chapel Hill, NC"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=kysY8qoAAAAJ&hl=en"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "https://scholar.google.com/citations?user=kysY8qoAAAAJ&hl=en"
   email            :
   researchgate     : 
   uri              :
@@ -97,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "imalenica"
+  github           : "Yangr00"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "podTockom"
+  twitter          : # "podTockom"
   vine             :
   weibo            :
   xing             :

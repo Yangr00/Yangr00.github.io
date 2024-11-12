@@ -17,9 +17,11 @@ My Primary research interest lies in survival analysis and causal inference. I a
 ## Working paper
 
 **An Adaptive Spike-and-Slab Lasso with Multiple Types of High-dimensional Omics Features**
+
 **Ruan, Y.**, Lee, C. Y., Han, Z. H, Wong, K. Y.
 
 **Assessing Proportional Hazards Assumption of Fine-Gray Model in Case-Cohort Studies**
+
 Wogu, A. F., **Ruan, Y.** , Zhao, S. S., Nichols H. B., Cai, J. W.
 
 

@@ -8,18 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a Wojcicki-Troper Data Science Fellow at the [Harvard Data Science Initiative](https://datascience.harvard.edu/) in the Department of Statistics at Harvard University. Previously, I completed my Ph.D. in the [Division of Biostatistics at UC Berkeley](https://publichealth.berkeley.edu/academics/biostatistics), advised by Professor Mark van der Laan. Before UC Berkeley, I studied mathematics and worked as a fellow at the Translational Genomics Research Institute.
+I am a MS student in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at University of North Carolina at Chapel Hill. Prior to UNC, I received my BS in applied mathematics at the Hong Kong Polytechnic University.
 
-During my graduate studies, I was fortunate to serve as both a [BIDS Fellow](https://bids.berkeley.edu/about) and a [Biomedical Big Data Fellow](https://ctml.berkeley.edu/biomedical-big-data-training-program-uc-berkeley). I am also a founding core developer of the [tlverse](https://tlverse.org/) project, a software ecosystem dedicated to targeted learning.
-
-I will be joining the [Department of Biostatistics at UNC](https://sph.unc.edu/bios/biostatistics/) as an Assistant Professor in the Spring of 2025.
-
----
-
-<p align="center">
-  My research interests combine causal inference, machine learning and non/semiparametric inference. I am particularly interested in problems arising in adaptive sequential experiments, reinforcement learning and personalized health in general. 
-</p>
-
----
+My Primary research interest lies in survival analysis and causal inference. I am also interested in integrating traditional methodologies with statistical machine learning.  
 
 
+
+## Working paper
+
+**An Adaptive Spike-and-Slab Lasso with Multiple Types of High-dimensional Omics Features**
+**Ruan, Y.**, Lee, C. Y., Han, Z. H, Wong, K. Y.
+
+**Assessing Proportional Hazards Assumption of Fine-Gray Model in Case-Cohort Studies**
+Wogu, A. F., **Ruan, Y.** , Zhao, S. S., Nichols H. B., Cai, J. W.
+
+
+
+## Presented topics at UNC
+
+[Precision Medicine](/files/PHAIR_Precision_Medicine.pdf); [Q Learning](/files/PHAIR_Intro_Q_Learning.pdf); [EHR](/files/PHAIR_Intro_EHR.pdf)
+
+ 

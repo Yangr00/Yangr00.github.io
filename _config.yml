@@ -11,7 +11,7 @@ title                    : "Ivana Malenica"
 title_separator          : "-"
 name                     : &name "Ivana Malenica"
 description              : &description "HDSI Fellow at Harvard"
-url                      : https://imalenica.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://127.0.0.1:4000 # https://yangr00.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imalenica/imalenica.github.io"
 teaser                   : #"imalenica.jpg"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Ivana Malenica"
-  avatar           : "ace6abae-619a-4223-a50f-41a57b4c9632.jpg"
+#  avatar           : "ace6abae-619a-4223-a50f-41a57b4c9632.jpg"
+  avatar           : "photo.jpg"
   bio              : "HDSI Fellow at Harvard"
   location         : "Cambridge, MA"
   employer         :

@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am a MS student in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at University of North Carolina at Chapel Hill. Prior to UNC, I received my BS in applied mathematics at the Hong Kong Polytechnic University.
 
-My Primary research interest lies in survival analysis and causal inference. I am also interested in integrating traditional methodologies with statistical machine learning.  
+My primary research interest lies in survival analysis and causal inference. I am also interested in integrating traditional methodologies with statistical machine learning.  
 
 
 

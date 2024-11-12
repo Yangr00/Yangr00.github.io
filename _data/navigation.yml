@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Book"
+    url: /book/   
+
+  - title: "Private"
+    url: /private/     

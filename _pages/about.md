@@ -20,7 +20,7 @@ An Adaptive Spike-and-Slab Lasso with Multiple Types of High-dimensional Omics F
 <br>**Ruan, Y.**, Lee, C. Y., Han, Z. H., Wong, K. Y.
 
 Assessing Proportional Hazards Assumption of Fine-Gray Model in Case-Cohort Studies
-<br>Wogu, A. F., **Ruan, Y.** , Zhao, S. S., Nichols H. B., Cai, J. W.
+<br>Wogu, A. F., **Ruan, Y.**, Zhao, S. S., Nichols H. B., Cai, J. W.
 
 
 

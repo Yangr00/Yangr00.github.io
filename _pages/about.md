@@ -14,7 +14,7 @@ My primary research interests lie in survival analysis and causal inference. I a
 
 
 
-## Working paper
+## Working papers
 
 An Adaptive Spike-and-Slab Lasso with Multiple Types of High-dimensional Omics Features
 <br>**Ruan, Y.**, Lee, C. Y., Han, Z., Wong, K. Y.

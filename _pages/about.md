@@ -19,7 +19,7 @@ My primary research interests build on my experience with survival analysis, cau
 **Ruan, Y.**, Lee, C. Y., Han, Z., and Wong, K. Y. (2024+), "An Adaptive Spike-and-Slab Lasso with Multiple Types of High-dimensional Omics Features"
 
 
-Wogu, A. F., **Ruan, Y.**, Zhao, S., Nichols H. B., and Cai, J. (2024+), "Assessing Proportional Hazards Assumption of Fine-Gray Model in Case-Cohort Studies"
+Wogu, A. F., **Ruan, Y.**, Zhao, S., Nichols, H. B., and Cai, J. (2024+), "Assessing Proportional Hazards Assumption of Fine-Gray Model in Case-Cohort Studies"
 
 
 
